@@ -29,23 +29,23 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
-<a href="">
+<a href="https://jquery.com/">
   <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
 </a>
-<a href="">
+<a href="https://www.w3schools.com/js/js_es6.asp">
   <img align="left" alt="es6" width="50px" src="https://codus.acyclique.com/wp-content/uploads/2017/11/ES6-JS.png" />
 </a>
 <a href="https://nodejs.org/">
   <img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
-<a href="">
+<a href="https://www.mysql.com/">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
 
-<a href="https://github.com/NattyXO/alx-zero_day">
+<a href="https://git-scm.com/">
   <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
-<a href="https://github.com/NattyXO/alx-system_engineering-devops">
+<a href="https://laravel.com/">
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 </a>
 
