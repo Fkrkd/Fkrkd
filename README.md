@@ -69,6 +69,6 @@
 </a>
  
 </div>  
-  
+  ![](https://komarev.com/ghpvc/?username=Fkrkd&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 <br>  
 <br>
