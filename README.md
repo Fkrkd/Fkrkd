@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 </div>
-- 😄 Hi there! I'm Fikir Kebede, web developer and information system student with a passion for learning and improving my skills. I'm currently studying at Addis Ababa University. 
+- 😄 Hi there! I'm Fikir Kebede, web developer and information science graduate from Addis Ababa University with a passion for learning and improving my skills. 
 - ⚡ I'm a fast learner and love tackling new challenges, and I'm always looking for ways to improve and grow as a developer.
-- 💬 If you're interested in collaborating or just want to chat about programming, don't hesitate to reach out!
+- 💬 If you're interested in collaborating or just want to chat about tech related stuff, don't hesitate to reach out!
 
 
 
