@@ -68,7 +68,8 @@
 <a href="https://github.com/Fkrkd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <img src="https://komarev.com/ghpvc/?username=Fkrkd&style=flat-square&color=blue" alt="profile count" style="margin-bottom: 5px; padding: 5 0 5 0"/>
+ 
 </![Profile views](https://gpvc.arturio.dev/[Fkrkd])
 <br>  
 <br>
+<img src="https://komarev.com/ghpvc/?username=Fkrkd&style=flat-square&color=blue" alt="profile count" style="margin-bottom: 5px; padding: 5 0 5 0"/>
