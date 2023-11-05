@@ -69,6 +69,6 @@
 </a>
  
 </div>  
-  ![](https://komarev.com/ghpvc/?username=Fkrkd&color=green)
+  ![](https://komarev.com/ghpvc/?username=Fkrkd)
 <br>  
 <br>
