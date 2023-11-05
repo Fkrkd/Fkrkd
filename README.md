@@ -72,3 +72,10 @@
 <br>  
 <br>
 <img src="https://komarev.com/ghpvc/?username=Fkrkd&style=flat-square&color=blue" alt="profile count" style="margin-bottom: 5px; padding: 5 0 5 0"/>
+
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fkrkd&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fkrkd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
