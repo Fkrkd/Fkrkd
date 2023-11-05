@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+</div>
 - 😄 Hi there! I'm Fikir Kebede, web developer and information system student with a passion for learning and improving my skills. I'm currently studying at Addis Ababa University. 
 - ⚡ I'm a fast learner and love tackling new challenges, and I'm always looking for ways to improve and grow as a developer.
 - 💬 If you're interested in collaborating or just want to chat about programming, don't hesitate to reach out!
@@ -67,7 +69,7 @@
 <a href="https://github.com/Fkrkd" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- 
+ <img src="https://komarev.com/ghpvc/?username=Fkrkd&style=flat-square&color=blue" alt=""/>
 </![Profile views](https://gpvc.arturio.dev/[Fkrkd])
 <br>  
 <br>
