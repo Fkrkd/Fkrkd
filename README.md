@@ -68,7 +68,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  
-</div>  
-  ![](https://komarev.com/ghpvc/?username=Fkrkd)
+</![Profile views](https://gpvc.arturio.dev/[Fkrkd])
 <br>  
 <br>
